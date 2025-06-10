@@ -47,7 +47,8 @@ Welcome! This is a self-guided crash course designed to refresh and sharpen my P
 _Use this section to journal your takeaways and lessons learned as you complete each module._
 
 - **Day 1**: Set up repo, cloned locally, started Module 1. Realized I needed a deeper refresher on slicing and comprehensions.
-- **Day 2**: Finished NumPy — loved re-learning broadcasting!
+- **Day 2**: Working out install kinks
+- **Day 3**:  Finished NumPy — loved re-learning broadcasting!
 
 ---
 
